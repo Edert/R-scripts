@@ -1,15 +1,3 @@
-ysample_figure <- function(x=128, y=10000,big_list,small_list,comp='sum',print=FALSE,header="Histogram") {
-
-  
-
-  
-
-
-
-
-
-
-
 
 #sub sampling without replacment
 GSDTS <- <- function(x=128, y=10000,big_list,small_list,comp='sum',print=FALSE,header="Histogram") {
