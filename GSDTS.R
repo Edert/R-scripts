@@ -1,6 +1,6 @@
 
 #sub sampling without replacment
-GSDTS <- <- function(x=128, y=10000,big_list,small_list,comp='sum',print=FALSE,header="Histogram") {
+GSDTS <- function(x=128, y=10000,big_list,small_list,comp='sum',print=FALSE,header="Histogram") {
   samplesy<-list()
   
   found_same<-FALSE
