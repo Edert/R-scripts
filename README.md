@@ -12,3 +12,4 @@ GSDTS tests a list of values x against a larger universe y of values (x < y) by 
 
 `GSDTS(128,1000,big_list,small_list)`
 
+![GSDTS output](/images/GSDTS-plot.png)
