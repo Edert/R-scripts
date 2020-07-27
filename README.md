@@ -14,3 +14,6 @@ Here we just create a universe with 10.000 random values and test a list of 128 
 `GSDTS(128,1000,big_list,small_list)`
 
 ![GSDTS output](/images/GSDTS-plot.png)
+
+
+If you use this script in your research please cite: Terlecki-Zaniewicz et al.; Nuclear Condensation of NUP98-Fusion Proteins drives leukemogenic gene expression; 2020
