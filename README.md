@@ -16,5 +16,4 @@ Here we just create a universe with 10.000 random values and test a list of 128 
 ![GSDTS output](/images/GSDTS-plot.png)
 
 
-If you use this script in your research please cite: Terlecki-Zaniewicz *et al.* Biomolecular Condensation of NUP98-Fusion Proteins Drives Leukemogenic Gene
-Expression. Nat. Struct. Mol. Biol. (2021)
+If you use this script in your research please cite: S. Terlecki-Zaniewicz, T. Humer, T. Eder, J. Schmöllerl, E. Heyes, G. Manhart, N. Kuchynka, K. Parapatics, F. Liberante, A. Müller, F. Grebien; Biomolecular Condensation of NUP98-Fusion Proteins Drives Leukemogenic Gene Expression. *Nat. Struct. Mol. Biol.* in press
